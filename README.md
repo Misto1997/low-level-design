@@ -1,7 +1,7 @@
 # LLD(Low Level Design)
 
 ## Introduction
-This Repository is intended to provide LLD(Low Level Design) solution's for various famous problem's that we face during Interview.
+This Repository is intended to provide solution's for various famous LLD(Low Level Design) problem statements that we face during Interview.
 
 ## Solutions added So far:
 1. Cache(Redis)
