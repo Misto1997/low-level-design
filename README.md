@@ -9,12 +9,12 @@ This Repository is intended to provide solution's for various famous LLD(Low Lev
 - To run code start Runner class
   - Example: src -> main -> java -> com.lowleveldesign -> cache -> CacheRunner.java
 
-##Expectation from Low Level Design
+## Expectation from Low Level Design
 - Code should be in running state.
 - Coding convention's should be followed and code should be readable and modular.
 - Implement code such a way that it should follow Design principles like SOLID, KISS, DRY etc.
 
-## Solutions added So far:
+## Solutions added so far:
 1. Cache(Redis)
 
 
